@@ -4,7 +4,7 @@ The folder contains codes for analysis of graph parameters and loyalty rate.
 
 1. Download dataset from here: http://snap.stanford.edu/data/reddit_reply_networks.tar.gz
 
-2. Download additional file to find loyalty rate of communities can be downloaded from following link: https://drive.google.com/open?id=1qViR5lEgmCob9-OLkd2_Q-sFL6zQU7RL
+2. Download additional file to find loyalty rate of communities from following link: https://drive.google.com/open?id=1qViR5lEgmCob9-OLkd2_Q-sFL6zQU7RL
 
 3. To generate loyalty rate and graph parameters, run the corresponding file as described below.
 
