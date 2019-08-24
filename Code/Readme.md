@@ -6,7 +6,7 @@ Additional files to find loyalty rate of communities can be downloaded from foll
 
 # Paramters and corresponding files 
 * Loyalty rate of a community - _get_loyalty_rate.py_
-* density of a user interaction graph - _get_graph_parameters.py_
+* Density of a user interaction graph - _get_graph_parameters.py_
 * Clustering coefficient of user interaction graph- _get_graph_parameters.py_
 * Assortativity of user interaction graph - _get_graph_parameters.py_
 * Inequality in user interaction graph- _get_gini.py_
