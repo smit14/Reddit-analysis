@@ -15,10 +15,11 @@ The folder contains codes for analysis of graph parameters and loyalty rate.
 * Density of a user interaction graph - _get_graph_parameters.py_
 * Clustering coefficient of user interaction graph- _get_graph_parameters.py_
 * Assortativity of user interaction graph - _get_graph_parameters.py_
-* Inequality in user interaction graph- _get_gini.py_
+* Inequality in user interaction graph - _get_gini.py_
+* Number of triads in user interaction graph - _get_graph_parameters.py_
 
 # Analysis
-_analysis.py_ code is been used to analyze the correlation between structural properties of user interaction graph - density, clustering coefficient, inequality, assortativity - and loyalty rate of the online community.
+_analysis.py_ code is been used to analyze the correlation between structural properties of user interaction graph - density, clustering coefficient, inequality, assortativity, Number of triads - and loyalty rate of the online community.
 
 # Further information
 For further information please read our term paper.
